@@ -1,7 +1,4 @@
----
 
-### `package.json`
-```json
 {
   "name": "dressup-game",
   "version": "1.0.0",
